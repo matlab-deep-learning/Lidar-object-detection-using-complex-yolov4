@@ -37,7 +37,7 @@ addpath('src');
 ```
 
 ### Download the pretrained network
-Use the below helper to download the complex YOLO v4 pretrained models. Use "complex-yolov4-pandaset" model name for selecting standard complex YOLO v4 pretrained network and "complex-yolov4-tiny-pandaset" model name for tiny complex YOLO v4 network. 
+Use the below helper to download the complex YOLO v4 pretrained models. Use "complex-yolov4-pandaset" model name for selecting standard complex YOLO v4 pretrained network and "tiny-complex-yolov4-pandaset" model name for tiny complex YOLO v4 network. 
 
 ```
 modelName = 'complex-yolov4-pandaset';
