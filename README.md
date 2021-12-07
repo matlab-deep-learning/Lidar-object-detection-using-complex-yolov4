@@ -106,7 +106,7 @@ Left-side image is the network output on the Bird's-eye-view image and right-sid
 
 Train Custom Complex YOLO v4 Using Transfer Learning
 ----------------------------------------------------
-Run the `createTrainingData.m` function to download the Pandaset dataset[3] and create the RGB maps from the lidar data used to train the complex-YOLOv4 network.
+Run the `createTrainingData.m` function to download the Pandaset dataset and create the RGB maps from the lidar data used to train the complex-YOLOv4 network.
 
 Transfer learning enables you to adapt a pretrained complex YOLO v4 network to your dataset. Create a custom complex YOLO v4 network for transfer learning with a new set of classes and train using the `complexYOLOv4TransferLearn.m` script.
 
