@@ -22,7 +22,7 @@ This repository implements two variants of the complex YOLO v4 object detectors:
 - **complex-yolov4-pandaset**: Standard complex yolov4 network for accurate object detection.
 - **tiny-complex-yolov4-pandaset**: Lightweight complex yolov4 network for faster inference.
 
-The pretrained networks are trained on three different object categories Car, Truck and Pedestrain. These networks are trained on the Pandaset dataset, available at https://scale.com/open-datasets/pandaset.
+The pretrained networks are trained on three different object categories Car, Truck and Pedestrain. These networks are trained on the Pandaset dataset, available at https://pandaset.org/.
 
 For other variant of Lidar object detection network, refer [Lidar 3-D Object Detection Using PointPillars Deep Learning](https://www.mathworks.com/help/lidar/ug/object-detection-using-pointpillars-network.html).
 
@@ -147,3 +147,4 @@ References
 [2] Simon, Martin, et al. “Complex-YOLO: Real-Time 3D Object Detection on Point Clouds.” ArXiv:1803.06199 [Cs], Sept. 2018. arXiv.org, http://arxiv.org/abs/1803.06199. 
 
 Copyright 2021 The MathWorks, Inc.
+
