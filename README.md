@@ -146,6 +146,7 @@ References
 
 [2] Simon, Martin, et al. “Complex-YOLO: Real-Time 3D Object Detection on Point Clouds.” ArXiv:1803.06199 [Cs], Sept. 2018. arXiv.org, http://arxiv.org/abs/1803.06199. 
 
-Copyright 2021 The MathWorks, Inc.
+Copyright 2021-2025 The MathWorks, Inc.
+
 
 
